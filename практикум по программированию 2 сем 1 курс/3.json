@@ -1,0 +1,13 @@
+{
+    "TaskName": "GetBestGroupsByDiscipline",
+    "Data": [
+        { "Name": "Cadet1", "Group": "SC-991", "Discipline": "Programming", "Mark": 5 },
+        { "Name": "Cadet2", "Group": "SC-991", "Discipline": "Programming", "Mark": 3 },
+        { "Name": "Cadet3", "Group": "SC-992", "Discipline": "Programming", "Mark": 4 },
+        { "Name": "Cadet4", "Group": "SC-992", "Discipline": "Programming", "Mark": 5 },
+        { "Name": "Cadet1", "Group": "SC-991", "Discipline": "Algebra", "Mark": 5 },
+        { "Name": "Cadet2", "Group": "SC-991", "Discipline": "Algebra", "Mark": 4 },
+        { "Name": "Cadet3", "Group": "SC-992", "Discipline": "Algebra", "Mark": 3 },
+        { "Name": "Cadet4", "Group": "SC-992", "Discipline": "Algebra", "Mark": 5 }
+    ]
+}
